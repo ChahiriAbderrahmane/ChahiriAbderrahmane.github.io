@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.8765b8c3.css",
-    "main.js": "/static/js/main.c4832861.js",
+    "main.js": "/static/js/main.e838ce24.js",
     "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
-    "static/media/Cdiscount_analysis.png": "/static/media/Cdiscount_analysis.337ab2d2699350a20027.png",
-    "static/media/123456.jpg": "/static/media/123456.605453b5fd4d2ab86dff.jpg",
+    "static/media/Cdiscount_analysis.png": "/static/media/Cdiscount_analysis.3a02f7f8358bf95f609b.png",
+    "static/media/123456.png": "/static/media/123456.aa807692d624594a9ade.png",
     "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/NYC Taxi Data Engineering Plateform.png": "/static/media/NYC Taxi Data Engineering Plateform.1146b38242e54a312751.png",
+    "static/media/Project Architecture.png": "/static/media/Project Architecture.2811a5f628ae4f8c8280.png",
+    "static/media/NYC Taxi Data Engineering Plateform.png": "/static/media/NYC Taxi Data Engineering Plateform.78cf3f982d1b02fc5d33.png",
     "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/Hybrid Data Lakehouse Architecture Diagram.png": "/static/media/Hybrid Data Lakehouse Architecture Diagram.f913a714f2eb693abc25.png",
-    "static/media/data_architecture.png": "/static/media/data_architecture.148c54a4a48e97cdd4b9.png",
+    "static/media/data_architecture.png": "/static/media/data_architecture.ec1855b9e0b798e3d4db.png",
+    "static/media/Hybrid Data Lakehouse Architecture Diagram.png": "/static/media/Hybrid Data Lakehouse Architecture Diagram.dfd6cdb34b29f9262921.png",
     "static/media/p2.png": "/static/media/p2.5c5b9db0d18d18cf52cc.png",
-    "static/media/Project Architecture.jpg": "/static/media/Project Architecture.701ce9bdc37516b794ac.jpg",
     "index.html": "/index.html",
     "main.8765b8c3.css.map": "/static/css/main.8765b8c3.css.map",
-    "main.c4832861.js.map": "/static/js/main.c4832861.js.map",
+    "main.e838ce24.js.map": "/static/js/main.e838ce24.js.map",
     "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8765b8c3.css",
-    "static/js/main.c4832861.js"
+    "static/js/main.e838ce24.js"
   ]
 }
